@@ -1,0 +1,24 @@
+{
+    "coverImageFilename": "TheModdedChicken.png",
+    "icon": "TheModdedChicken.png",
+    "components": [
+        {
+            "type": "FileCopyMod",
+            "sourceFileName": "Cuboid Thin.qsaber",
+            "targetRootedPathAndFileName": "/sdcard/Qosmetics/sabers/testSaber.qsaber"
+        }
+    ],
+    "version": "1.0.0",
+    "links": {
+        "pageLink": ""
+    },
+    "description": [
+        "A simplistic saber with a thin trail, thin blade, and cuboid like halos."
+    ],
+    "gameVersion": "1.13.0",
+    "platform": "Quest",
+    "id": "CuboidThinTheModdedChickenV1.0.0",
+    "name": "Cuboid Thin",
+    "author": "TheModdedChicken",
+    "category": "Saber"
+}

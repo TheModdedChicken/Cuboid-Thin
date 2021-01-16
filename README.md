@@ -15,3 +15,9 @@ Then find the "Import Package" button, and press "Custom Package".
 ![Custom Package Button](https://raw.githubusercontent.com/TheModdedChicken/Cuboid-Thin/quest-port/image2.png)
 
 Now you want to locate and open the CuboidThinQos.unitypackage file.
+
+![Open Package File](https://raw.githubusercontent.com/TheModdedChicken/Cuboid-Thin/quest-port/image3.png)
+
+Lastly you want to press "Import" on the popup you were given.
+
+![Import Popup]()

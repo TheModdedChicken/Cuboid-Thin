@@ -21,3 +21,5 @@ Now you want to locate and open the CuboidThinQos.unitypackage file.
 Lastly you want to press the "Import" button at the bottom right of the popup you were given.
 
 ![Import Popup](https://raw.githubusercontent.com/TheModdedChicken/Cuboid-Thin/quest-port/Capture.JPG)
+
+### Note: It is your job to add the scripts back to all the assets. This package file is merely for keeping the colors and shading on the saber whilst importing.

@@ -7,7 +7,9 @@ If you would like to load the project files in unity, then please follow [this](
 After setting up your project, continue to download the CuboidThinQos.unitypackage file that is located in this repository.
 
 Once downloaded, add the package to your unity project by pressing "Assets" in the top right.
+
 ![Assets Button](https://raw.githubusercontent.com/TheModdedChicken/Cuboid-Thin/quest-port/image.png)
+
 Then find the "Import Package" button, and press "Custom Package".
 
 Now you want to locate and open the CuboidThinQos.unitypackage file.

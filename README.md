@@ -18,6 +18,6 @@ Now you want to locate and open the CuboidThinQos.unitypackage file.
 
 ![Open Package File](https://raw.githubusercontent.com/TheModdedChicken/Cuboid-Thin/quest-port/image3.png)
 
-Lastly you want to press "Import" on the popup you were given.
+Lastly you want to press the "Import" button at the bottom right of the popup you were given.
 
 ![Import Popup](https://raw.githubusercontent.com/TheModdedChicken/Cuboid-Thin/quest-port/Capture.JPG)

@@ -12,4 +12,6 @@ Once downloaded, add the package to your unity project by pressing "Assets" in t
 
 Then find the "Import Package" button, and press "Custom Package".
 
+![Custom Package Button](https://raw.githubusercontent.com/TheModdedChicken/Cuboid-Thin/quest-port/image2.png)
+
 Now you want to locate and open the CuboidThinQos.unitypackage file.
